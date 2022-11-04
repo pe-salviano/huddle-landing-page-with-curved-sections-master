@@ -1,0 +1,21 @@
+@import url(../styles/cabecalho.css);
+@import url(../styles/info-signature.css);
+
+
+:root{
+    --cor-botao:hsl(322, 100%, 66%);
+    --cor-rodape:#01262F;
+    --cor-title:#003947;
+    --cor-textos:#1A4D5A;
+    --black:#000000;
+    --branco:#FFFFFF;
+
+    --font-primaria:'Open Sans', sans-serif;
+    --font-secundaria:'Poppins', sans-serif;
+}
+
+
+body{
+    background-color: var(--branco);
+    font-family:var(--font-primaria);
+}

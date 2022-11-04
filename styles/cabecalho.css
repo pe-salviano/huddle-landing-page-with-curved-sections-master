@@ -1,0 +1,17 @@
+.caebecalho{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem 1rem 1.5rem;
+    margin-bottom: 5rem;
+}
+.logo{
+    width: 150px;
+}
+.btn-free{
+    border-radius: 25px;
+    border: 1px solid var(--cor-botao);
+    background-color: transparent;
+    width: 100px;
+    color: var(--cor-botao);
+    font-weight: bold;
+}
