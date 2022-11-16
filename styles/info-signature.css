@@ -35,3 +35,21 @@
 .image-mockups{
     width: 100%;
 }
+#info-dados{
+    text-align: center;
+    margin-top: 3rem;
+}
+.image-Communities{
+    width: 25px;
+}
+.sub-title--Communities{
+    font-size: 3rem;
+    font-weight: 700;
+    margin: 1rem 0;
+}
+.text-communities{
+    font-size: .7rem;
+}
+.dados-messages{
+    margin: 2rem 0 5rem 0;
+}
