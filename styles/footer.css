@@ -1,0 +1,60 @@
+.bg-footer{
+    background: url('../images/bg-footer-top-mobile.svg')no-repeat;
+    background-size: cover;
+    background-position: center top;
+    
+
+    
+}
+.container-footer{
+    padding-top: 3rem;
+    color: var(--branco);
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+.title-footer{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.3rem;   
+    margin-top: 20rem;
+}
+.text-footer{
+    margin: 1.5rem 0 2rem 0;
+    font-size: .9rem;
+    line-height: 1.5;
+}
+.input-footer{
+    width: 99%;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+}
+.btn-Subscribe{
+    width: 150px;
+    height: 45px;
+    margin: 1rem 0 1rem 0;
+    float: right;
+    border-radius: 5px;
+    border: none;
+    background-color: var(--cor-botao);
+    color: var(--branco);
+    font-size: .9rem;
+    font-weight: 600;
+}
+.logo-footer{
+    width: 190px;
+    padding-top: 5rem;
+}
+.info-contact{
+    font-size: .9rem;
+}
+.icon-footer{
+    margin-right: 1rem;
+}
+.email-division{
+    margin: 1.5rem 0;
+}
+.icons{
+    margin: 1rem 1rem 3rem 0;
+}

@@ -1,6 +1,7 @@
 @import url(../styles/cabecalho.css);
 @import url(../styles/info-signature.css);
 @import url(../styles/cards-info.css);
+@import url(../styles/footer.css);
 
 
 :root{
@@ -19,4 +20,5 @@
 body{
     background-color: var(--branco);
     font-family:var(--font-primaria);
+    height: 100vh;
 }
